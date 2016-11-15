@@ -1,9 +1,9 @@
 # Kirk Haines
 # Software / Platform Engineer · DevOps
 
-PO Box 96
-Veteran, WY 82243
-307-331-5047
+  PO Box 96
+  Veteran, WY 82243
+  307-331-5047
 
 * wyhaines@gmail.com
 * http://github.com/wyhaines
