@@ -21,7 +21,7 @@ Software and platform engineer with 15+ years of passion for Ruby, high performa
 * [RubyKaigi 2016 – Web Server Concurrency](https://engineyard.github.io/rubykaigi2016-concurrency/#/)
   * https://www.youtube.com/watch?v=4FsZfcv28ig
 * [Railsconf 2016 – Let’s Build a Web Server!](http://engineyard.github.io/railsconf2016-webservers/#/)
-* [Various Engine Yard Technical Article](shttps://blog.engineyard.com/authors/Kirk%20Haines)
+* [Various Engine Yard Technical Articles](https://blog.engineyard.com/authors/Kirk%20Haines)
 * [Tokyo Cabinet in One Hour](http://www.oreilly.com/pub/e/1477)
 
 #Experience
