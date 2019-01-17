@@ -14,7 +14,7 @@
 
 # Summary
 
-Software and platform engineer with 18+ years of passion for Ruby, high performance/high availability systems, web applications, performance tuning, and tricky problems. I’ve enjoyed working on diverse problems, from high volume email to performance profiling and tuning apps for Superbowl commercial driven traffic to large scale Rails apps on AWS to designing and developing a high availability hosting platform to meet FINRA regulations for web sites for Electronically Traded Funds. Former Ruby 1.8.6 maintainer; contributor on a wide variety of other open source projects in the Ruby ecosystem.
+Software and platform engineer with 22+ years of passion for Ruby, high performance/high availability systems, web applications, performance tuning, and tricky problems. I’ve enjoyed working on diverse problems, from high volume email to performance profiling and tuning apps for Superbowl commercial driven traffic to large scale Rails apps on AWS to designing and developing a high availability hosting platform to meet FINRA regulations for web sites for Electronically Traded Funds. Former Ruby 1.8.6 maintainer; contributor on a wide variety of other open source projects in the Ruby ecosystem.
 
 # Notable Publications and Presentations
 
