@@ -1,5 +1,5 @@
 # Kirk Haines
-# Software / Platform Engineer · Ruby · Web · DevOps
+# Director · Engineer · Ruby · React · Web · DevOps
 
 ```text
   PO Box 96
