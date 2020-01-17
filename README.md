@@ -14,7 +14,7 @@
 
 # Summary
 
-Software and platform engineer with 22+ years of passion for Ruby, high performance/high availability systems, web applications, performance tuning, and tricky problems. I’ve enjoyed working on diverse problems, from high volume email to performance profiling and tuning apps for Superbowl commercial driven traffic to large scale Rails apps on AWS to designing and developing a high availability hosting platform to meet FINRA regulations for web sites for Electronically Traded Funds. Former Ruby 1.8.6 maintainer; contributor on a wide variety of other open source projects in the Ruby ecosystem.
+Software and platform engineer with more than two decades of passion for Ruby, high performance/high availability systems, web applications, performance tuning, and tricky problems. I’ve enjoyed working on diverse problems, from high volume email to performance profiling and tuning apps for Superbowl commercial driven traffic to large scale Rails apps on AWS to designing and developing a high availability hosting platform to meet FINRA regulations for web sites for Electronically Traded Funds. Former Ruby 1.8.6 maintainer; contributor on a wide variety of other open source projects in the Ruby ecosystem.
 
 # Notable Publications and Presentations
 
@@ -25,9 +25,12 @@ Software and platform engineer with 22+ years of passion for Ruby, high performa
 * [Railsconf 2016 – Let’s Build a Web Server!](http://engineyard.github.io/railsconf2016-webservers/#/)
 * [Various Engine Yard Technical Articles](https://blog.engineyard.com/authors/Kirk%20Haines)
 * [Tokyo Cabinet in One Hour](http://www.oreilly.com/pub/e/1477)
+* [Various Medium.com Articles](https://medium.com/@wyhaines)
 
 # Experience
 
+* *Director of Engineering, ViaTRM, 2019-2020* -- Migrated into the Director of Engineering role, and took responsibility for owning the product and for working, and pushing consistently to fix functional problems, deliver needed features, and improve problematic performance issues on both the React front end and the Rails back end. I managed a small internal engineering team, worked with Product, and worked with an offshore team to get things done.
+* *Senior Software Engineer, ViaTRM, 2019* -- I took over development on a Ruby/Rails project with a separate React front end, doing both front end and back end work, to help bring a very delayed and troubled software project to release, and then worked diligently to resolve customer issues and improve the software following release. I owned the front end work, the back end work, and the infrastructure work.
 * *Site Reliability Engineer, Cookpad Global, 2017-2019* -- Infrastructure architecture and maintenance, database operations, developer productivity. Focused on AWS, automation, troubleshooting, optimizing time consuming developer processes and tooling.
 * *Sr. Software Engineer, Engine Yard, 2009 – 2016* -- Wide variety of platform/devops roles, including Rails development, OS/Distribution work, scaleable architecture for free tier product Prototype, EY Local to wrap our entire platform in a locally deployable VM, low level system and application performance tuning, extensive Chef recipe work, fault tolerant logging bastion server for system audit trails & SOCII compliance.
 * *Sr. Engineer & Architect, Enigo, 2002 – 2009, 2016, 2018-2019* -- Sites and applications for commerce. Mostly Ruby with some Perl and PHP (and Wordpress) on Linux. Highly available, customized Redmine based application for FINRA regulatory compliance tracking for a large US bank. High Availability stack for mutual fund and electronically traded fund sites and applications. Small team/project management. Front end work in HTML/CSS/Javascript/Bootstrap/Jquery/React.
