@@ -28,7 +28,7 @@ Software and platform engineer with more than two decades of passion for Ruby, h
 * [Various Medium.com Articles](https://medium.com/@wyhaines)
 
 # Experience
-
+* *Senior Software Engineer, Influence.co, 2020* -- Hardcore Rails + React on an existing, rapidly growing application. I did work implementing search capabilities across the site, leveraging ElasticSearch, along with other projects involving the replacement of traditional HTML+Bootstrap UI elements with React based UI elements in the application.
 * *Director of Engineering, ViaTRM, 2019-2020* -- Migrated into the Director of Engineering role, and took responsibility for owning the product and for working, and pushing consistently to fix functional problems, deliver needed features, and improve problematic performance issues on both the React front end and the Rails back end. I managed a small internal engineering team, worked with Product, and worked with an offshore team to get things done.
 * *Senior Software Engineer, ViaTRM, 2019* -- I took over development on a Ruby/Rails project with a separate React front end, doing both front end and back end work, to help bring a very delayed and troubled software project to release, and then worked diligently to resolve customer issues and improve the software following release. I owned the front end work, the back end work, and the infrastructure work.
 * *Site Reliability Engineer, Cookpad Global, 2017-2019* -- Infrastructure architecture and maintenance, database operations, developer productivity. Focused on AWS, automation, troubleshooting, optimizing time consuming developer processes and tooling.
